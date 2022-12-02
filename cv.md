@@ -4,7 +4,7 @@
 
 ---
 
-#### Contact information
+### Contact information
 
 - **phone** + 375 (29) 170-23-90
 - **email** shemplehova@gmail.com
@@ -15,7 +15,7 @@
 
 ---
 
-#### About myself
+### About myself
 
 I am 23 years old. I work as an Oracle database engineer in the banking industry. I analyze and develop new features based on customer requirements, and also support ready-made solutions.  
 I'm goal oriented, self-motivated, positive, have high attention to detail, focus on results and open to learn new technologies.  
@@ -23,7 +23,7 @@ I want to learn something new for myself, that's why I'm here.
 
 ---
 
-#### Skills
+### Skills
 
 - HTML, CSS
 - JavaScript (Basic)
@@ -36,7 +36,7 @@ I want to learn something new for myself, that's why I'm here.
 
 ---
 
-#### Code example
+### Code example
 
 ```
 function multiply(a, b){
@@ -49,7 +49,7 @@ console.log(result);
 
 ---
 
-#### Experience
+### Experience
 
 - **Oracle PL/SQL developer, SoftClub**  
   Development and support of banking software (Oracle, SQL, PL/SQL)
@@ -58,12 +58,12 @@ console.log(result);
 
 ---
 
-#### Education:
+### Education:
 
 - Lyceum of BSU
 - Belarusian State University, Faculty of Applied Mathematics and Computer Science
 
-##### Courses:
+#### Courses:
 
 - Oracle SQL Fundamentals
 - Oracle PL/SQL Fundamentals
@@ -72,7 +72,7 @@ console.log(result);
 
 ---
 
-#### Languages:
+### Languages:
 
 - Russian - Native
 - English - Pre-Intermediate (A2+)
