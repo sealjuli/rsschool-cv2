@@ -9,7 +9,7 @@
 - **phone** + 375 (29) 1702390
 - **email** shemplehova@gmail.com
 - **telegram** @JuliaSshem
-- **discord** никнейм на дискорд-сервере rs school
+- **discord** Julia (@sealjuli)
 - **linkedin** [Julia Shemplehova](https://www.linkedin.com/in/julia-shemplehova-6a133a227)
 - **github** https://github.com/sealjuli
 
