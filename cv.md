@@ -6,7 +6,7 @@
 
 #### Contact information
 
-- **phone** + 375 (29) 1702390
+- **phone** + 375 (29) 170-23-90
 - **email** shemplehova@gmail.com
 - **telegram** @JuliaSshem
 - **discord** Julia (@sealjuli)
