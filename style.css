@@ -60,6 +60,8 @@ body {
 .main-container {
   display: flex;
   flex-wrap: wrap;
+  margin: auto;
+  max-width: 1700px;
 }
 
 .section {
